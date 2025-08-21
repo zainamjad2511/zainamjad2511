@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/zainamjad2511/">
-    <img src="https://res.cloudinary.com/dneh23pza/image/upload/v1755547488/zain-amjad_vjusyd.png" alt="Zain Amjad - MERN Stack Developer" style="border-radius:50%;"/>
+    <img src="https://res.cloudinary.com/dneh23pza/image/upload/v1755547488/zain-amjad_vjusyd.png" alt="Zain Amjad - MERN Stack Developer" style="border-radius:50%; width:100px"/>
   </a>
 
   <h1>👋 Hello there! I'm Zain Amjad 👨‍💻</h1>
