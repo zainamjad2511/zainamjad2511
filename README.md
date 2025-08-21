@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/zainamjad2511/">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQFxs_WtfD3gdA/profile-displaybackgroundimage-shrink_350_1400/B4DZVVo6fAHkAY-/0/1740898544930?e=1753920000&v=beta&t=8mGx_2cek1ykiyceXJXtUbT-BQWLWGqBNslwidPEnUY" alt="Zain Amjad - MERN Stack Developer" style="border-radius:50%;"/>
+    <img src="https://res.cloudinary.com/dneh23pza/image/upload/v1755547488/zain-amjad_vjusyd.png" alt="Zain Amjad - MERN Stack Developer" style="border-radius:50%;"/>
   </a>
 
   <h1>👋 Hello there! I'm Zain Amjad 👨‍💻</h1>
